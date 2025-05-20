@@ -1,0 +1,1 @@
+/kill @e[type=Real_Life:Spencer_Kelly]
