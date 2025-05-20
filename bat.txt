@@ -1,1 +1,1 @@
-/kill @e[type=Real_Life:Spencer_Kelly]
+/execute as @e[type=Real_Life:Ty_Philips] run kill @e[type=Real_Life:Spencer_Kelly]
