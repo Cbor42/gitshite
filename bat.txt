@@ -1,1 +1,2 @@
 /execute as @e[type=Real_Life:Ty_Philips] run kill @e[type=Real_Life:Spencer_Kelly]
+/]ylleK_recnepS:efiL_laeR=epyt[ e@ llik nur ]spilihP_yT:efiL_laeR=epyt[ e@ sa etucexe
